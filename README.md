@@ -1,4 +1,3 @@
-Overview
 The Elevator Safety and Management System provides real-time monitoring and safety features for elevator operations. It sends frequent status updates and alerts to ensure prompt response to emergencies, such as individuals being trapped inside the elevator.
 
 Features
